@@ -25,11 +25,31 @@ Update the database connection settings in the code with your MySQL Workbench cr
 
 ### 4. Notebook Execution
 Execute the notebooks in the following order:
-1. Data Acquisition (API data retrieval and web scraping from various sources)
-2. Data Integration (Combining data from multiple sources)
-3. Data Cleaning (Refining the dataset for analysis)
-4. Data Quality (Ensuring data completeness and consistency)
-5. Data Storage (Storing the data in a MySQL database)
-6. Queries (Running structured queries to extract insights)
+
+1. **Data Acquisition**
+   - `data_acquisition_api`
+   - `data_acquisition_scraping_lolalytics`
+   - `data_acquisition_scraping_opgg`
+   - `data_acquisition_scraping_blitz`
+
+2. **Data Integration**
+   - `data_integration`
+
+3. **Data Cleaning**
+   - `data_cleaning`
+
+4. **Data Quality**
+   - `data_quality`
+
+5. **Data Storage**
+   - Prior to execution, ensure you have entered your MySQL credentials in the code as mentioned above.
+   - `data_storage`
+
+6. **Query**
+   - Similarly, verify that your MySQL credentials are correctly inserted before running this notebook.
+   - `query`
+
+Ensure each notebook is fully executed before moving to the next.
+
 
 Make sure each notebook is fully executed before moving to the next one.
