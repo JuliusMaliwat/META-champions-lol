@@ -1,4 +1,4 @@
-# Project Title: Unveiling META Champions in League of Legends (Patch 13.24)
+# Unveiling META Champions in League of Legends (Patch 13.24)
 
 ## Project Summary
 This project aims to analyze the META (Most Effective Tactics Available) within the popular online multiplayer game, League of Legends (LoL), specifically focusing on patch 13.24. By utilizing web scraping and API data retrieval techniques, we gathered comprehensive information about champions, focusing on identifying those who are considered META within the current gaming environment. The project's objective was to provide players with a strategic advantage by highlighting the most powerful and influential characters in the latest game version, enhancing their chances of success.
