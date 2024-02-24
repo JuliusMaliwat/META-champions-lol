@@ -13,9 +13,9 @@ To get started with this project, follow the steps below:
 
 ### 1. Install Dependencies
 Install the necessary Python packages by running:
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ### 2. Local MySQL Connection
 Configure a local connection in MySQL Workbench with your preferred settings.
